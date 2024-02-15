@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=repiso-piyush&label=Profile%20views&color=0e75b6&style=flat" alt="repiso-piyush" /> </p>
 
-- 🌱 I’m currently learning **React-hooks,**
+- 🌱 I have more than 1 year of experience in building UI with react,NextJs and Vue**
 
 - 💬 Ask me about **react,javascript,HTML,CSS**
 
